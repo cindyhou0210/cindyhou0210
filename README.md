@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Inspired by her identities, cross generational youth culture, and images within the margins. Cindy Hou is a new breed of creativity. One part data analyst, one part illustrator, one part digital strategist. She is currently pursuing double major in Computer Science and Business with a concentration in data analytics at Brandeis University.
 
-### Get to know me more! [Website](cindyhou.co)
+### Get to know me more! [Website](http://cindyhou.co)
 
